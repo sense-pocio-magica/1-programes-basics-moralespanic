@@ -8,6 +8,27 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // Donar la benvinguda
+        Console.WriteLine("Benvingut al generador de contrasenyes supersegures d'última generació!!!\n");
+        
+        // Demanar el nom
+        Console.Write("Introdueix el teu nom: ");
+        string? nom = Console.ReadLine();
+        
+        // Demanar l'any de naixement
+        int anyNaixement;
+        while (true)
+        {
+            Console.Write("Entra el teu any de naixement: ");
+            bool ok = Int32.TryParse(Console.ReadLine(), out anyNaixement);
+            if (ok)
+            {
+                break;
+            }
+            Console.WriteLine("\nHas introduït un valor incorrecte. Torna-ho a intentar.\n");
+        }
+        
+        // Mostrar la contrasenya
+        Console.WriteLine($"La teva contrasenya supersegura és: {nom}{anyNaixement}");
     }
 }

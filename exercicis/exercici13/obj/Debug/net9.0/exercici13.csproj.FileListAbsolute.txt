@@ -1,0 +1,15 @@
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/bin/Debug/net9.0/exercici13
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/bin/Debug/net9.0/exercici13.deps.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/bin/Debug/net9.0/exercici13.runtimeconfig.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/bin/Debug/net9.0/exercici13.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/bin/Debug/net9.0/exercici13.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.GeneratedMSBuildEditorConfig.editorconfig
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.AssemblyInfoInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.AssemblyInfo.cs
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.csproj.CoreCompileInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.sourcelink.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/refint/exercici13.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/exercici13.genruntimeconfig.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici13/obj/Debug/net9.0/ref/exercici13.dll

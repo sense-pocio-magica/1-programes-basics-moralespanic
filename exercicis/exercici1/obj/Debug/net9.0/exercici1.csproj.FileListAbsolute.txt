@@ -1,15 +1,30 @@
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.exe
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.deps.json
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.runtimeconfig.json
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.dll
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\bin\Debug\net9.0\exercici1.pdb
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfoInputs.cache
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfo.cs
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.csproj.CoreCompileInputs.cache
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.sourcelink.json
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.dll
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\refint\exercici1.dll
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
-C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/bin/Debug/net9.0/exercici1.exe
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/bin/Debug/net9.0/exercici1.deps.json
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/bin/Debug/net9.0/exercici1.runtimeconfig.json
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/bin/Debug/net9.0/exercici1.dll
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/bin/Debug/net9.0/exercici1.pdb
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.AssemblyInfoInputs.cache
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.AssemblyInfo.cs
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.csproj.CoreCompileInputs.cache
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.sourcelink.json
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.dll
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/refint/exercici1.dll
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.pdb
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/exercici1.genruntimeconfig.cache
+C:/Users/Coral Planagumà/Desktop/CICLES FORMATIUS/PROJECTES/1-Programes-basics/exercicis/exercici1/obj/Debug/net9.0/ref/exercici1.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/bin/Debug/net9.0/exercici1
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/bin/Debug/net9.0/exercici1.deps.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/bin/Debug/net9.0/exercici1.runtimeconfig.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/bin/Debug/net9.0/exercici1.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/bin/Debug/net9.0/exercici1.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.GeneratedMSBuildEditorConfig.editorconfig
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.AssemblyInfoInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.AssemblyInfo.cs
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.csproj.CoreCompileInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.sourcelink.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/refint/exercici1.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/exercici1.genruntimeconfig.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici1/obj/Debug/net9.0/ref/exercici1.dll

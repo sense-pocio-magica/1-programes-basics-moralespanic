@@ -1,0 +1,15 @@
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/bin/Debug/net9.0/exercici2
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/bin/Debug/net9.0/exercici2.deps.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/bin/Debug/net9.0/exercici2.runtimeconfig.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/bin/Debug/net9.0/exercici2.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/bin/Debug/net9.0/exercici2.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.GeneratedMSBuildEditorConfig.editorconfig
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.AssemblyInfoInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.AssemblyInfo.cs
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.csproj.CoreCompileInputs.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.sourcelink.json
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/refint/exercici2.dll
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.pdb
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/exercici2.genruntimeconfig.cache
+/home/spz/Documents/DAW/D485_Programacio/git_coral/1-programes-basics-moralespanic/exercicis/exercici2/obj/Debug/net9.0/ref/exercici2.dll

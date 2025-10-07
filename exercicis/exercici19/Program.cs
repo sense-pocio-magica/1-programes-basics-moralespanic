@@ -6,6 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string paraula = "macarrons";
+        
+        Console.WriteLine($"La paraula és: \"{paraula}\"");
+        Console.WriteLine($"Nombre de caràcters: {paraula.Length}");
     }
 }
