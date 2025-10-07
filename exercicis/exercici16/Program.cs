@@ -16,6 +16,50 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // Demanar la nota de pràctiques
+        float notaPractiques;
+        while (true)
+        {
+            Console.Write("Nota de pràctiques: ");
+            bool ok = float.TryParse(Console.ReadLine(), out notaPractiques);
+
+            if (!ok)
+            {
+                Console.WriteLine("Has introduït un valor invàlid. Torna-ho a intentar.");
+            } else if (notaPractiques < 0.0f)
+            {
+                Console.WriteLine("El valor no pot ser negatiu!");
+            }
+            else
+            {
+                break;
+            }
+        }
+        
+        // Demanar la nota de l'examen
+        float notaExamen;
+        while (true)
+        {
+            Console.Write("Nota de l'examen: ");
+            bool ok = float.TryParse(Console.ReadLine(), out notaExamen);
+
+            if (!ok)
+            {
+                Console.WriteLine("Has introduït un valor invàlid. Torna-ho a intentar.");
+            } else if (notaPractiques < 0.0f)
+            {
+                Console.WriteLine("El valor no pot ser negatiu!");
+            }
+            else
+            {
+                break;
+            }
+        }
+        
+        // Calcular la nota final
+        float notaFinal = ((notaPractiques + notaExamen) / 2);
+        
+        // Mostrar la nota final
+        Console.WriteLine($"La nota final és {notaFinal} o sigui un {Math.Round(notaFinal)}");
     }
 }

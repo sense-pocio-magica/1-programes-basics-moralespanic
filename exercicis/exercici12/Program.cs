@@ -27,6 +27,50 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // Obtenir el primer número
+        int primerNumero;
+        while (true)
+        {
+            Console.Write("Introdueix el primer número: ");
+            bool ok = Int32.TryParse(Console.ReadLine(), out primerNumero);
+
+            if (ok)
+            {
+                break;
+            }
+            Console.WriteLine("\nEl valor que has introduït no és vàlid, torna-ho a intentar.\n");
+        }
+        
+        // Obtenir el segon número
+        int segonNumero;
+        while (true)
+        {
+            Console.Write("Introdueix el segon número: ");
+            bool ok = Int32.TryParse(Console.ReadLine(), out segonNumero);
+
+            if (ok)
+            {
+                break;
+            }
+            Console.WriteLine("\nEl valor que has introduït no és vàlid, torna-ho a intentar.\n");
+        }
+        
+        // Imprimir els resultats
+        // Suma
+        Console.WriteLine($"{primerNumero} + {segonNumero} = {primerNumero + segonNumero}");
+        // Resta
+        Console.WriteLine($"{primerNumero} - {segonNumero} = {primerNumero - segonNumero}");
+        // Multiplicació
+        Console.WriteLine($"{primerNumero} * {segonNumero} = {primerNumero * segonNumero}");
+        // Divisió
+        Console.Write($"{primerNumero} * {segonNumero} = ");
+        if (segonNumero != 0)
+        {
+            Console.WriteLine((float)(primerNumero * segonNumero));
+        }
+        else
+        {
+            Console.WriteLine("ERROR: No es pot dividir entre zero.");
+        }
     }
 }

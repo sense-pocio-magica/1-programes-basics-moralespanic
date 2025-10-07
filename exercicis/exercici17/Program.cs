@@ -15,6 +15,26 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        /*
+            En aquest cas, treballaré amb el tipus "decimal", degut a que són més precisos que el float i double
+            Ara, demanem el nombre lleig (🤮)
+         */
+        decimal nombreLleig;
+        while (true)
+        {
+            Console.Write("Número lleig: ");
+            bool ok = decimal.TryParse(Console.ReadLine(), out nombreLleig);
+
+            if (ok)
+            {
+                break;
+            }
+            Console.WriteLine("\nHeu introduït un nombre lleig invàlid. Torneu-ho a intentar.\n");
+        }
+
+        // Calcular el nombre meravellós (❤️)
+        decimal nombreMeravellos = nombreLleig - Convert.ToDecimal(Math.Truncate(nombreLleig));
+        
+        Console.WriteLine($"Nombre meravellós: {nombreMeravellos}");
     }
 }

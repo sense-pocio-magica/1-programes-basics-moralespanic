@@ -6,6 +6,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom = "pAU";
+        string cognom = "MorALes";
+        
+        Console.Write("Hola, ");
+        // Escriure el nom
+        Console.Write(nom.ToUpper()[0] + nom.ToLower()[1..] + " ");
+        
+        // Escriure el cognom (substring per variar)
+        Console.WriteLine(cognom.ToUpper()[0] + cognom.ToLower().Substring(1) + "!");
     }
 }
